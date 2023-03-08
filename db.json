@@ -1,0 +1,100 @@
+{
+    "users":[
+        {
+            "name":"John",
+            "email":"john@gmail.com",
+            "phone":"988737785",
+            "address": "UK",
+            "id":3,
+            "status":"Active"
+        },
+        {
+            "name":"kevin",
+            "email":"kevin@gmail.com",
+            "phone":"988747785",
+            "address": "Ireland",
+            "id":4,
+            "status":"Inactive"
+        },
+        {
+            "name":"Tony",
+            "email":"tony@gmail.com",
+            "phone":"989737785",
+            "address": "US",
+            "id":5,
+            "status":"Active"
+        },
+        {
+            "name":"Vishal",
+            "email":"vishal@gmail.com",
+            "phone":"988737756",
+            "address": "India",
+            "id":6,
+            "status":"Inactive"
+        },
+        {
+            "name":"Julie",
+            "email":"julie@gmail.com",
+            "phone":"988737780",
+            "address": "India",
+            "id":7,
+            "status":"Active"
+        },
+        {
+            "name":"Vijay",
+            "email":"vijay@gmail.com",
+            "phone":"878737785",
+            "address": "USA",
+            "id":8,
+            "status":"Inactive"
+        },
+        {
+            "name":"Ahmed",
+            "email":"ahmed@gmail.com",
+            "phone":"980737785",
+            "address": "USA",
+            "id":9,
+            "status":"Active"
+        },
+        {
+            "name":"James",
+            "email":"james@gmail.com",
+            "phone":"968747785",
+            "address": "Ireland",
+            "id":10,
+            "status":"Inactive"
+        },
+        {
+            "name":"Mari",
+            "email":"mari@gmail.com",
+            "phone":"989737485",
+            "address": "USA",
+            "id":11,
+            "status":"Active"
+        },
+        {
+            "name":"Lari",
+            "email":"lari@gmail.com",
+            "phone":"918737756",
+            "address": "India",
+            "id":12,
+            "status":"Inactive"
+        },
+        {
+            "name":"Yori",
+            "email":"yori@gmail.com",
+            "phone":"988727780",
+            "address": "India",
+            "id":13,
+            "status":"Active"
+        },
+        {
+            "name":"Tom",
+            "email":"tom@gmail.com",
+            "phone":"858737785",
+            "address": "USA",
+            "id":14,
+            "status":"Inactive"
+        }
+    ]
+}
